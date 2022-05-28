@@ -20,25 +20,7 @@ You can install Escapepod via F-Froid.
 ### Does Escapepod have playback queue?
 Escapepod has a simple up-next feature. Tap play on an episode while listening to another one. You will be be given the opportunity add it to the up-next slot.
 
-### What are the default settings?
-- Auto-update does not download files over cellular network
-- Escapepod by default only keeps two episodes
 
-### Escapepod keeps more than two episodes.
-Escapepod tries to reduce the number of episodes it keeps. Here are the rules for that:
-
-- Escapepod keeps the latest two episodes
-- Episodes, that have been started, or that have been downloaded manually, are kept, too
-- the maximum number of episodes available (and kept) is five
-
-### Does Escapepod support OMPL?
-You can import a podcast list using the [OPML](https://en.wikipedia.org/wiki/OPML) exchange format using the respective option in the app's Settings. The current podcast collection can be exported via Settings, too. Additionally Escapepod keeps an up-to-date OPML file in the folder `/Android/data/org.y20k.escapepod/files/collection/`.
-
-### I cannot add podcast X.
-Please report any podcast feeds, that are currently not working, using the GitHub Issue template [Feed Issue](https://github.com/y20k/escapepod/issues/new?assignees=&labels=feed+issue&template=feed-issue.md&title=%5BFeed%5D). Note: Escapepod does not support video podcasts.
-
-### Where do the podcast search results come from?
-Escapepod searches by default the [Podcastindex.org](https://podcastindex.org/) online database or, if you toggle the respective setting, the [gpodder.net](https://gpodder.net/directory/) online database.
 
 ## Screenshots (v1.1)
 [<img src="https://raw.githubusercontent.com/y20k/escapepod/master/metadata/en-US/phoneScreenshots/01-escapepod-v1.1.0-playback.png" width="240">](https://raw.githubusercontent.com/y20k/escapepod/master/metadata/en-US/phoneScreenshots/01-escapepod-v1.1.0-playback.png)
