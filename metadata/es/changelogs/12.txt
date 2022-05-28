@@ -1,5 +1,0 @@
-# v0.7.7: Drüben auf dem Hügel
-
-**2019-10-16**
-
-- Corrige un error de guardado de la posición de reproducción

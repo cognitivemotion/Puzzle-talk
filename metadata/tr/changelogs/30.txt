@@ -1,5 +1,0 @@
-# v0.9.5 - Aber Hier Leben, Nein Danke
-
-**7 Ekim 2020**
-
-- listede kalan son podcast silinebilir (tekrar)

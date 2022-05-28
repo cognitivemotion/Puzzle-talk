@@ -1,5 +1,0 @@
-# v0.7.12: Drüben auf dem Hügel
-
-**2019-11-25**
-
-- Se arregló el botón para eliminar episodios

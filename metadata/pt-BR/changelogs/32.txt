@@ -1,5 +1,0 @@
-# v1.0.1 - Sag Alles Ab
-
-**13/03/2021**
-
-- Correção de conformidade do F-Droid: dependência proprietária desnecessária removida (consulte https://github.com/y20k/escapepod/issues/64)

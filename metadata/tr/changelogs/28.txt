@@ -1,5 +1,0 @@
-# v0.9.3 - Aber Hier Leben, Nein Danke
-
-**27 Temmuz 2020**
-
-- kaydırma performansı iyileştirildi

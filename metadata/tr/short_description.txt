@@ -1,1 +1,0 @@
-Escapepod, podcast dinlemek için basit ve hafif bir uygulamadır.

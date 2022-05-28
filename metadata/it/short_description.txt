@@ -1,1 +1,0 @@
-Escapepod è un'applicazione semplice e leggera per ascoltare i podcast.

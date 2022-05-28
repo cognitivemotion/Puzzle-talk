@@ -1,5 +1,0 @@
-# v0.7.7 - Drüben Auf Dem Hügel
-
-**16/10/2019**
-
-- Correction d'un bug où la position de lecture n'était pas correctement sauvegardée

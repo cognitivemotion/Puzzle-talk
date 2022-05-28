@@ -1,1 +1,0 @@
-Escapepod es una aplicación sencilla y ligera para escuchar pódcast.
