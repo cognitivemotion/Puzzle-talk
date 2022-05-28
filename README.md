@@ -1,7 +1,7 @@
 README
 ======
 
-# Escapepod - Podcast Player for Android
+# Puzzle talk - Application to improve the quality of your life
 <img src="https://raw.githubusercontent.com/y20k/escapepod/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="192" />
 
 **Version 1.1.x ("Mein Neues Hobby")**
