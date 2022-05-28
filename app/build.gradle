@@ -25,9 +25,6 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
 
-    lintOptions {
-        disable 'MissingTranslation'
-    }
 
     buildTypes {
         release {
@@ -56,6 +53,10 @@ android {
         }
 
     }
+    lint {
+        disable 'MissingTranslation'
+    }
+    namespace 'org.y20k.escapepod'
 }
 
 dependencies {
