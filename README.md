@@ -1,7 +1,7 @@
 README
 ======
 
-# Puzzle talk - Application to improve the quality of your life
+# Puzzle talk - Application to improve the quality of life
 <img src="https://raw.githubusercontent.com/cognitivemotion/Puzzle-talk/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="192" />
 
 **Version 1.1.x ("Mein Neues Hobby")**
